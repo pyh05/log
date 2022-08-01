@@ -35,6 +35,6 @@
     
 ?>
 <div>
-    <a href='./login.html'>홈으로</a>
+    <a href='./login.php'>홈으로</a>
     <a href='./list.php'>회원목록</a>
 </div>
