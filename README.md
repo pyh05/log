@@ -3,12 +3,17 @@
 
 # 홈페이지 설명
 - 로그인
+- 로그아웃
 - 회원 가입
 - 회원 목록
 -- 회원 정보 삭제 및 수정
 
 # 프로그램 실행 화면
 ![image](https://user-images.githubusercontent.com/101377686/182051754-e2c88348-9543-4982-9bea-c2193f294ee7.png)
+
+![image](https://user-images.githubusercontent.com/101377686/182057579-0c68da96-b8c6-432d-87fe-2a19a99f6a13.png)
+
+![image](https://user-images.githubusercontent.com/101377686/182057679-10cd182a-92bc-4190-a78b-aea266fc22e3.png)
 
 ![image](https://user-images.githubusercontent.com/101377686/182051735-366a6f59-17e6-4c3e-bbf4-2c284e0c39b7.png)
 
